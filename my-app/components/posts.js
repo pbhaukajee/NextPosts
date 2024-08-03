@@ -1,6 +1,7 @@
 "use client";
 
 import { useOptimistic } from "react";
+import Image from "next/image";
 
 import { formatDate } from "@/lib/format";
 import LikeButton from "./like-icon";
